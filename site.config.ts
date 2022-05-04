@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '春晓酒馆',
-  domain: 'pub.kissg.me',
+  name: '一生所爱•小酒馆',
+  domain: 'pub.lifelonglove.cn',
   author: '赵喧典',
 
   // open graph metadata (optional)
@@ -52,11 +52,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '关于我',
-      pageId: '25027674bb88434785e91a042c88790a'
+      pageId: '7cf3220fc1b5432db4deb5a701088e56'
     },
     {
       title: '我的近况',
-      pageId: 'e86152f0084147749e6564d6f366e233'
+      pageId: '92860c53941749f4ab6b9e980513a366'
     }
   ]
 })
