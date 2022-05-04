@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: '80a29905-f5e1-4530-abfe-b34034d6a1b8',
 
   // basic site info (required)
   name: '一生所爱•小酒馆',
